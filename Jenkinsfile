@@ -9,7 +9,7 @@ pipeline {
             steps {
 
                 git branch: 'main',
-                    url: 'https://github.com/Sriram-thota/Capstone-project/tree/main'
+                    url: ' https://github.com/Sriram-thota/Capstone-project.git'
             }
         }
 
